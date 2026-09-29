@@ -16,7 +16,7 @@
 
 ---
 
-### 🛰️ Executive R&D Profile
+### 🛰️ Executive R&D Engineer
 
 I am an **Autonomous Systems R&D Engineer** engineering software architectures where **real-time determinism, low latency, and robust physical safety** are paramount. My core research and development work bridges **autonomous vehicles (Autoware / AWSIM)**, **aerial defense & UAV interception systems (PX4 / ROS 2)**, and **high-bandwidth digital twin telemetry interfaces (React Three Fiber / Three.js / WebSockets)**.
 
